@@ -1,4 +1,7 @@
+abc
+
 a
+
 As the industry' only all flash storage series that fully implements the NVMe architecture, 
 the Huawei OceanStor Dorado V3 can support both NVMe and SAS SSDs in one system. 
 This versatility ensures the service quality of high-priority applications and maximizes enterprise 
@@ -7,12 +10,12 @@ enterprise-grade features, the OceanStor Dorado V3 provides high-quality service
 database and file-sharing applications. Further, the system minimizes the number of SSDs needed by offering data reduction ratios as high as 5:1,
  while maintaining extremely high performance.
 In addition to NVMe, 
-the Huawei OceanStor Dorado V3 uses three custom-designed intelligent chips:
+the Huawei OceanStor Dorado uses three custom-designed intelligent chips:
  a multi-protocol interface chip, SSD controller chip, and Baseboard Management Controller (BMC) chip. 
 Along with Huawei's intelligent FlashLink algorithm, 
 these chips realize end-to-end data acceleration and achieve an industry-leading 0.5-millisecond stable latency. 
 This high performance can dramatically improve service processing efficiency for enterprises in finance,
  telecom, manufacturing, medical, and many other fields.
  The system' HyperMetro-based (active-active) gateway-free reliability solution implements 99.9999% availability and meets the highest reliability requirements of enterprises.
- Even in the active-active mode,
+ Even in the active mode,
  this solution ensures stable latency of 1 millisecond, which secures the 24/7 stable operation of mission-critical applications.
